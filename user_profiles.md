@@ -1,1 +1,4 @@
  - loyal 
+ - daily
+ - monthly
+ - quarterly
